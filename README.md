@@ -1,3 +1,6 @@
+# Considerações iniciais
+Como pig-game é um jogo simples, com um código relativamente pequeno, e que tem como propósito somente a manipulação do DOM (além da diversão), eu optei por não separar os arquivos Javascript, sendo assim nenhum tipo de refatoramento de arquivos foi utilizado.
+
 # Pig-game
 Pig-game é um jogo desenvolvido com o objetivo de demonstrar manipulações que podem ser realizadas no DOM.
 
