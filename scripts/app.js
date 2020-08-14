@@ -42,8 +42,8 @@ document.querySelector(".btn-roll").addEventListener("click", () => {
     }
 
     if (dice1 !== 1 && dice2 !== 1) {
-      document.querySelector("#dice-1").src = "/img/dice-" + dice1 + ".png";
-      document.querySelector("#dice-2").src = "/img/dice-" + dice2 + ".png";
+      document.querySelector("#dice-1").src = "img/dice-" + dice1 + ".png";
+      document.querySelector("#dice-2").src = "img/dice-" + dice2 + ".png";
       document.querySelector(
         "#current-" + activePlayer
       ).textContent = roundscore;
