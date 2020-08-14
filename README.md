@@ -1,10 +1,12 @@
-<img src="img/dice-1.png" width="50px" height="50px"> <img src="img/dice-2.png" width="50px" height="50px"> <img src="img/dice-3.png" width="50px" height="50px"> <img src="img/dice-4.png" width="50px" height="50px"> <img src="img/dice-5.png" width="50px" height="50px"> <img src="img/dice-6.png" width="50px" height="50px">
+<img src="/img/dice-1.png" width="50px" height="50px"> <img src="/img/dice-2.png" width="50px" height="50px"> <img src="/img/dice-3.png" width="50px" height="50px"> <img src="/img/dice-4.png" width="50px" height="50px"> <img src="/img/dice-5.png" width="50px" height="50px"> <img src="/img/dice-6.png" width="50px" height="50px">
 
 # Considerações iniciais
 Como pig-game é um jogo simples, com um código relativamente pequeno, e que **_tem como propósito somente a manipulação do DOM_** (além da diversão), eu optei por não separar os arquivos Javascript, sendo assim nenhum tipo de refatoramento de arquivos foi utilizado.
 
 # Pig-game
 Pig-game é um jogo desenvolvido com o objetivo de demonstrar manipulações que podem ser realizadas no DOM.
+
+<img src="/img/game.PNG">
 
 ## Inicializar a aplicação
 Para inicializar a aplicação o usuário deverá **_baixar a extensão Live-Server_** para a sua IDE e iniciar o arquivo index.html com o Live-Server.
